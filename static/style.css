@@ -1,0 +1,32 @@
+
+.navbar-custom {
+    background-color: hsl(109, 51%, 92%);
+}
+.navbar-custom .nav-link,
+.navbar-custom .navbar-brand {
+    color: #076e35;
+}
+.navbar-custom  {
+    color: hsl(0, 20%, 95%);
+
+}
+
+body {
+    background-color: #f8f9fa;
+}
+.form-container {
+    max-width: 500px;
+    margin: 50px auto;
+    background: white;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(137, 207, 160, 0.1);
+}
+
+.book-card, .book-form {
+    background: #fff;
+    border-radius: 12px;
+    padding: 20px;
+    margin-bottom: 30px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.05);
+} 
